@@ -1,1 +1,1 @@
-# DeepFake_Detection
+This is the source code of a research project that conducts a comprehensive study and comparison of deep learning models for deepfake detection. The study begins by establishing a baseline standard CNN model. Two distinct CNN based architectures are then developed, including a ResNet model and a fine-tuned Xception model. All models are trained on the DFDC dataset, which is alarge, diverse dataset of sophisticated GAN generated DeepFake images. The Xception model performed the best with a test accuracy of 91%.
